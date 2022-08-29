@@ -10,5 +10,5 @@ This project aims to allow the measurement of personal co2 emissions on differen
 
 # Documentation for frontend and backend:
 
-[frontend](carboon-footprint-calc/README.md)
-[backend](carboon-footprint-back/readme.md)
+[frontend](https://github.com/guidiamond/carbon-footprint-calculator/blob/main/carbon-footprint-calc/README.md)
+[backend](https://github.com/guidiamond/carbon-footprint-calculator/tree/main/carbon-footprint-back/readme.md)
